@@ -1,4 +1,4 @@
-# Monitoring Alur Produksi 2.0
+# Monitoring Alur Produksi 
 
 A Laravel-based production monitoring dashboard for a bottled drinking water production facility. The application stores machine counter readings, summarizes production from consecutive readings, and provides a local simulator for development and demonstrations.
 
